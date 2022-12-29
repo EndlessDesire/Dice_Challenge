@@ -1,1 +1,1 @@
-# Dice_Challenge
+# DiceChallenge
